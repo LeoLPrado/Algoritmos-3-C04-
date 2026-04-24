@@ -12,6 +12,25 @@ Revisão de análise de complexidade e técnicas clássicas de projeto: força b
 ### 2. Grafos
 Definições, terminologia e formas de representação (matriz e lista de adjacência). Algoritmos de percurso em largura e profundidade, ordenação topológica, árvore geradora mínima e caminho mínimo (Dijkstra).
 
+# Tipos de Grafos
+Direcionados ou não direcionados;
+Conexo ou disconexo;
+Cíclico ou acíclico;
+Simples ou multigrafo;
+Completo ou incompleto;
+Bipartido, planar, euleriano ou hamiltoniano;
+
+# Aplicacões de Grafos
+Algoritmos de busca;
+Análise de redes complexas;
+Planejamento de tarefas;
+Análise de DNA;
+Análise de redes de proteínas;
+Simulação de sistema físicos;
+Análise de mercados e fluxo de capiutal;
+Recomendações;
+Planejamento de rotas;
+
 ### 3. Árvore binária
 Conceitos e estruturas de dados. Operações de inserção, pesquisa e remoção de elementos. Percursos em profundidade e largura, e destruição de árvores.
 
