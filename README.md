@@ -21,10 +21,10 @@ Definições, terminologia e formas de representação:
 - lista de adjacência
 
 Algoritmos estudados:
-- percurso em largura
-- percurso em profundidade
-- ordenação topológica
-- árvore geradora mínima
+- percurso em largura (bfs)
+- percurso em profundidade (dfs)
+- ordenação topológica 
+- árvore geradora mínima (PRIM -> MST)
 - caminho mínimo (Dijkstra)
 
 #### Tipos de Grafos
@@ -34,6 +34,7 @@ Algoritmos estudados:
 - Simples ou multigrafo
 - Completo ou incompleto
 - Bipartido, planar, euleriano ou hamiltoniano
+- DAG -> Grafo direcionado aciclico (AIRFLOW)
 
 #### Aplicações de Grafos
 - Algoritmos de busca
